@@ -411,7 +411,7 @@ button:focus {
 ============================================================================================ */
 .home_banner_area {
   z-index: 1;
-  background: url(../img/banner/home-banner.jpg) no-repeat scroll center center;
+  background: url(../img/banner/home-banner-min.jpg) no-repeat scroll center center;
   background-size: cover; }
   @media (max-width: 767px) {
     .home_banner_area {
@@ -501,7 +501,7 @@ button:focus {
           padding: 0 30px; } }
 
 .home_banner_area.common-banner {
-  background: url(../img/banner/common-banner.jpg) no-repeat scroll center center;
+  background: url(../img/banner/common-banner-min.jpg) no-repeat scroll center center;
   background-size: cover; }
   .home_banner_area.common-banner .banner_inner .fullscreen {
     height: 540px !important; }
